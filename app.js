@@ -7,6 +7,8 @@ function newFeature() {
 	console.log("Finally feature completed!");
 }
 
+console.log("Bug fixed");
+
 console.log("Hello World");
 method1();
 newFeature();
